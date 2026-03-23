@@ -1,0 +1,29 @@
+body{
+    background-color:black;
+}
+
+.post{
+    background-color: rgb(247, 242, 242);
+}
+.image{
+    display: flex;
+    justify-content: space-around;
+}
+img {
+    width: 30%;
+}
+.icons-left{
+    display: flex;
+    justify-content: center;
+    margin-right: 25%;
+    margin-top: 5px;
+}
+.icons-right {
+    display: flex;
+    justify-content: end;
+    margin-right: 35%;
+}
+.parrafo {
+    text-align: center;
+    margin-right: 10%;
+}
