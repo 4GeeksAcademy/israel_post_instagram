@@ -1,29 +1,16 @@
 body{
-    background-color:black;
+    background-color: rgb(184, 180, 180);
 }
-
-.post{
-    background-color: rgb(247, 242, 242);
+.container{
+    background-color: rgb(252, 242, 242);
+    width: 430px;
 }
-.image{
-    display: flex;
-    justify-content: space-around;
+.logo{
+    padding-top: 50px;
+    margin-left: 50px;
 }
-img {
-    width: 30%;
-}
-.icons-left{
-    display: flex;
-    justify-content: center;
-    margin-right: 25%;
-    margin-top: 5px;
-}
-.icons-right {
+.boton1{
     display: flex;
     justify-content: end;
-    margin-right: 35%;
-}
-.parrafo {
-    text-align: center;
-    margin-right: 10%;
+    padding-bottom: 20px;
 }
